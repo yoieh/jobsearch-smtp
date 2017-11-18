@@ -1,0 +1,19 @@
+{
+  "name": "jobsearch-smtp",
+  "version": "0.0.1",
+  "description": "My JobSearch smtp server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoieh/jobsearch-smtp.git"
+  },
+  "author": "Yoieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoieh/jobsearch-smtp/issues"
+  },
+  "homepage": "https://github.com/yoieh/jobsearch-smtp#readme"
+}
