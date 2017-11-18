@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoieh/jobsearch-smtp/issues"
   },
-  "homepage": "https://github.com/yoieh/jobsearch-smtp#readme"
+  "homepage": "https://github.com/yoieh/jobsearch-smtp#readme",
+  "dependencies": {
+    "smtp-server": "^3.3.0"
+  }
 }
