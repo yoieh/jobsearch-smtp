@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yoieh/jobsearch-smtp#readme",
   "dependencies": {
-    "smtp-server": "^3.3.0"
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0"
   }
 }
